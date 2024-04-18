@@ -1,0 +1,7 @@
+Simulation info : 
+Nb eps: 60000
+Exploration decay: 0.95
+Gamma: 0.95
+Base score: 5
+Game: Catcher
+state_vers: 3
