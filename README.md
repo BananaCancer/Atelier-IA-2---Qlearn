@@ -1,3 +1,4 @@
-# Directory for Q-learning
-You can run the scripts in the `scripts` directory to test the code. 
+# Dossier pour le Q-learning
+## Author: Basil Courbayre
+Des scripts sont disponibles dans le dossier `scripts` pour faire des essais sur le code.
 Un fichier requirements.txt est disponible pour créer l'environnement python.
